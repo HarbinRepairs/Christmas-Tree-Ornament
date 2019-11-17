@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Christmas-Tree-Ornament-1.0-rescue)(type Legacy)(uri "${KIPRJMOD}/Christmas Tree Ornament 1.0-rescue.lib")(options "")(descr ""))
+  (lib (name Switch1)(type Legacy)(uri "/Users/jordanharbin/Documents/Kicad Library/Switch/Switch.lib")(options "")(descr ""))
+)
